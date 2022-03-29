@@ -1,5 +1,5 @@
 ### Hi I'm Mary Chou 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47D1F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&height=80&lines=Hello+I+AM+Mary+Chou+%F0%9F%A4%AD+;welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=47D1F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&width=800&height=40&lines=Hello+I+AM+Mary+Chou+%F0%9F%A4%AD+welcome+to+my+github+%F0%9F%91%8F)](https://git.io/typing-svg)
 - About me https://mary830331.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mary830331&layout=compact)](https://github.com/mary830331/github-readme-stats)

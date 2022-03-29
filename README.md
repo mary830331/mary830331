@@ -1,7 +1,7 @@
 ### Hi I'm Mary Chou 👋
 - About me https://mary830331.github.io/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mary830331=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?mary830331=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Here are some ideas to get you started:
 
